@@ -1,2 +1,2 @@
 # createmore
-language model intelligence
+character level language models
